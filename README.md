@@ -61,5 +61,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
   </a>
 </div>
-
-<img align="left" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl0MXo5NW1kZzNjaHIyeG56OWcwMTZiY3RjbnB2ejM3bDVueHlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.gif" />
