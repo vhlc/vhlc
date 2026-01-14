@@ -1,16 +1,17 @@
 <div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Victor%20Hugo&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Software%20Developer&descSize=20&descAlign=50&descAlignY=85&textBg=false&theme=tokyonight" />
 </div>
-<img align="right" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl0MXo5NW1kZzNjaHIyeG56OWcwMTZiY3RjbnB2ejM3bDVueHlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.gif" />
-<h2 align="left">Skills</h2>
-
-<h6 align="left">
-- Backend Engineering: Development of high-performance RESTful APIs with Python (FastAPI).<br>
-- Modern Frontend: Creation of reactive interfaces using TypeScript and modern frameworks.<br>
-- AI Integration: Implementation of chat and automation functionalities using LangChain.<br>
-- Data Management: Modeling and optimization of relational databases (PostgreSQL/MySQL).
-</h6>
-
+<br>
+<br>
+<div align="center">
+  <p>
+    🚀 &nbsp; <b>Backend Engineering:</b> Development of high-performance RESTful APIs with Python (FastAPI).<br>
+    💻 &nbsp; <b>Modern Frontend:</b> Creation of reactive interfaces using TypeScript and modern frameworks.<br>
+    🤖 &nbsp; <b>AI Integration:</b> Implementation of chat and automation functionalities using LangChain.<br>
+    🗄️ &nbsp; <b>Data Management:</b> Modeling and optimization of relational databases (PostgreSQL/MySQL).
+  </p>
+</div>
+<br>
 <br>
 
 <div align="center">
@@ -45,9 +46,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorvhlc&theme=transparent" alt="Linguagens" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorvhlc&theme=transparent" alt="Stats" />
 </div>
-
-<hr>
-
+<br>
 <h2 align="center">Contact</h2>
 
 <div align="center">
